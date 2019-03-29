@@ -33,6 +33,7 @@ html, body{
   cursor : pointer;
   border-radius: 3px;
   box-shadow: 0px 1px 2px rgba(0,0,0,.2);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 .btnTwo {
   position : relative;
@@ -43,6 +44,7 @@ html, body{
   background : #26A69A;
   left : -250px;
   transition : .3s;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 .btnText {
   color : white;
